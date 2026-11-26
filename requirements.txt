@@ -1,0 +1,10 @@
+# Python 3.10 or 3.11 recommended. TensorFlow and Transformers should be
+# installed together in a clean environment for this notebook.
+numpy<2
+pandas>=1.5,<3
+matplotlib>=3.7,<4
+seaborn>=0.12,<1
+scikit-learn>=1.2,<2
+tensorflow>=2.15,<2.16
+transformers>=4.38,<5
+pydot>=1.4,<4
